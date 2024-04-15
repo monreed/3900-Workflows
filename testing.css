@@ -1,0 +1,43 @@
+.control-section h1 {
+    padding: 20px;
+}
+  
+.control-section {
+    justify-content: center;
+    background-color: #f8f9fa;
+    text-align: center;
+    font-family: Lato;
+    width: 100%;
+    padding: 15px 10px;
+    font-size: 1.6em;
+    margin-bottom: 20px;
+}
+  
+.control-container {
+    text-align: center;
+    margin-top: 20px; 
+}
+
+.control-button {
+    width: 100px;
+    height: 80px;
+    margin: 2px;
+    border-radius: 20%;
+    background-color: #3a767d;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#stopButton {
+    background-color: #f44336;
+    margin-bottom: 20px;
+}
+
+#followButton {
+    background-color: #23484c;
+}
+#killButton {
+    background-color: darkred;
+}
